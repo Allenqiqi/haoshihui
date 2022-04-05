@@ -1,0 +1,92 @@
+import Vue from 'vue'
+import {
+  Sidebar,
+  SidebarItem,
+  Search,
+  Icon,
+  NavBar,
+  Tabbar,
+  TabbarItem,
+  Toast,
+  Lazyload,
+  Swipe,
+  SwipeItem,
+  CountDown,
+  Sticky,
+  Card,
+  List,
+  Button,
+  Cell,
+  CellGroup,
+  Grid,
+  GridItem,
+  Divider,
+  DropdownMenu,
+  DropdownItem,
+  GoodsAction,
+  GoodsActionIcon,
+  GoodsActionButton,
+  Rate,
+  SwipeCell,
+  Form,
+  ShareSheet,
+  Tab,
+  Tabs,
+  NumberKeyboard,
+  Field,
+  SubmitBar,
+  Empty,
+  Stepper,
+  Checkbox,
+  CheckboxGroup,
+  Tag,
+  CouponCell,
+  CouponList,
+  Popup,
+  ActionSheet
+} from 'vant'
+
+Vue.use(Sidebar)
+Vue.use(SidebarItem)
+Vue.use(Search)
+Vue.use(Icon)
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(NavBar)
+Vue.use(Toast)
+Vue.use(Lazyload)
+Vue.use(Swipe)
+Vue.use(SwipeItem)
+Vue.use(CountDown)
+Vue.use(Sticky)
+Vue.use(Card)
+Vue.use(Button)
+Vue.use(Cell)
+Vue.use(CellGroup)
+Vue.use(Grid)
+Vue.use(GridItem)
+Vue.use(DropdownMenu)
+Vue.use(DropdownItem)
+Vue.use(GoodsAction)
+Vue.use(GoodsActionButton)
+Vue.use(GoodsActionIcon)
+Vue.use(Rate)
+Vue.use(SwipeCell)
+Vue.use(Form)
+Vue.use(List)
+Vue.use(ShareSheet)
+Vue.use(Tab)
+Vue.use(Tabs)
+Vue.use(NumberKeyboard)
+Vue.use(Field)
+Vue.use(Divider)
+Vue.use(SubmitBar)
+Vue.use(Empty)
+Vue.use(Stepper)
+Vue.use(Checkbox)
+Vue.use(CheckboxGroup)
+Vue.use(Tag)
+Vue.use(CouponCell)
+Vue.use(CouponList)
+Vue.use(Popup)
+Vue.use(ActionSheet)
